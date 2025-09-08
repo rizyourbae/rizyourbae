@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @rizyourbae
-- 👀 I’m interested in Matlab, Phyton, Web Programming, Desktop Programming, Mobile Programming
-- 🌱 I’m currently learning Matlab, Phyton, Web Programming, Desktop Programming, Mobile Programming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Web Programming,
+- 🌱 I’m currently using laravel as my stack technology
+- 💞️ I’m looking to collaborate on laravel development
 
 <!---
 rizyourbae/rizyourbae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
